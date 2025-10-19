@@ -1,2 +1,2 @@
 # JContainer_and_JComponents_and_Layout_Managers_EP1
-aa
+Utilizing the microwave’s features, properties, and visual design, the study of JContainer, JComponents, and layout managers enables participants to comprehend the systematic placement and organization of GUI elements. Learners will gain mastery of container structures, component relationships, and layout management in Java interface development.
